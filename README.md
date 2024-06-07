@@ -15,7 +15,7 @@
 
 
 
-A simple yet powerful package that handles the creation of a dynamic questionnaire/research survey with conditional questions.<br>
+A simple yet powerful package that handles the creation of a dynamic questionnaire/research survey with conditional questions. This is an updated version of the flutter_survey package by michelthomas.dev <br>
 Have you ever wanted to implement a form/questionnaire/survey like the ones you see on Google forms?<br>
 Have you ever wanted to implement conditional questions that show or hide the questions that follow, based on the user's input?<br>
 This package helps you build data collection forms hassle-free.
@@ -74,7 +74,7 @@ Alternatively, your editor might support pub. Check the docs for your editor to 
 Now in your Dart code, you can use:
 
 ```Dart
-import 'package:flutter_survey/survey.dart';
+import 'package:flutter_survey_plus/survey.dart_plus';
 ```
 
 ## 📖 Usage
@@ -304,4 +304,4 @@ submitting feedback and/or opening a PR.
 
 ## ℹ️ About me
 
-Visit my LinkedIn at https://www.linkedin.com/in/michel98
+Visit my LinkedIn at https://www.linkedin.com/in/warren-nkomanga/
