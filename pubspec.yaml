@@ -1,6 +1,6 @@
 name: flutter_survey_plus
 description: A package that handles the creation and state of a dynamic questionnaire/data collection survey with conditional questions.
-version: 0.1.5
+version: 0.1.6
 homepage: https://github.com/WarrenNkomanga/flutter_survey_plus
 
 environment:
@@ -25,7 +25,6 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter.
-flutter:
 
   # To add assets to your package, add an assets section, like this:
   # assets:
